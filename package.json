@@ -1,0 +1,30 @@
+{
+  "name": "node-boyer-moore-regexp",
+  "version": "0.1.0",
+  "description": "Boyer-Moore string searching algorithm with support for regular expression matching.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jthomerson/node-boyer-moore-regexp.git"
+  },
+  "keywords": [
+    "Boyer-Moore",
+    "grep",
+    "ag",
+    "silver_searcher",
+    "regex"
+  ],
+  "author": "Jeremy Thomerson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jthomerson/node-boyer-moore-regexp/issues"
+  },
+  "homepage": "https://github.com/jthomerson/node-boyer-moore-regexp#readme",
+  "dependencies": {
+    "antlr4": "^4.5.2",
+    "underscore": "^1.8.3"
+  }
+}
